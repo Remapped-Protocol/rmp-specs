@@ -23,3 +23,7 @@ This repository does not contain:
 - Executable runtime code
 - Deployment scripts or infrastructure topology
 - Production parameters, keys, or genesis configuration
+
+## Related repositories
+- rmp-meta: https://github.com/Remapped-Protocol/rmp-meta
+- rmp-docs: https://github.com/Remapped-Protocol/rmp-docs
